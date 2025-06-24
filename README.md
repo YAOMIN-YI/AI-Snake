@@ -42,11 +42,11 @@ watch_trained_snake.py
 
 建立新環境並安裝 Python 3.x。
 
-安裝必要套件（於終端機或 Anaconda Prompt 輸入）：
+安裝必要套件（於終端機或 Anaconda Prompt 輸入以下安裝套件，並請手動安裝所需全部套件）：
 
 bash
 
-pip install pygame gym numpy stable-baselines3 shimmy
+pip install pygame gym numpy stable-baselines3 shimmy 
 
 《使用說明》
 
