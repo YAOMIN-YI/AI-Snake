@@ -9,6 +9,7 @@
 專案僅需三個主要 Python 檔案即可完成完整流程，結構簡潔，方便理解及後續擴充。
 
 《技術棧與依賴套件》
+
 Python 3.x
 
 pygame（遊戲顯示）
@@ -22,6 +23,7 @@ stable-baselines3（強化學習演算法）
 shimmy（Gym 兼容性支援）
 
 【專案結構與檔案說明】
+
 snake_pygame_gym.py
 
 【實作貪食蛇遊戲邏輯，包裝為 Gym 環境，支援即時畫面顯示與分數統計。】
@@ -35,7 +37,9 @@ watch_trained_snake.py
 【載入已訓練模型，讓 AI 自動遊玩並即時顯示遊戲分數與表現。】
 
 《安裝步驟》
+
 建議使用 Anaconda 管理 Python 虛擬環境。
+
 建立新環境並安裝 Python 3.x。
 
 安裝必要套件（於終端機或 Anaconda Prompt 輸入）：
